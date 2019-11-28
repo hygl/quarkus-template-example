@@ -1,0 +1,13 @@
+<html>
+
+<head>
+    <title>Pebble Test</title>
+
+</head>
+
+<body>
+    <h1>Hello {{name}}!</h1>
+    <p>Request path is {{path}}</p>
+</body>
+
+</html>
